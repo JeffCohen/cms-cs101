@@ -1,6 +1,6 @@
 # Welcome to Computer Science for Normal People
 
-## Fundamentals of Algorthim Design
+## Fundamentals of Algorithm Design
 
 * What is recursion, and how would I know when I have a problem that needs a recursive solution?
 * Why do I sometimes read things about binary trees, acyclic directed graphs, and other crazy data structures?
