@@ -1,0 +1,18 @@
+# This config file controls which workbook pages are viewable.
+#
+# Put your workbook pages into /workbook, then enable them here.
+#
+# Syntax:
+# 
+# filename: title
+#
+# You don't need the .md suffix in the filename.
+
+
+bigo.md: "Big O Notation"
+turing: "The Turing Test"
+linked: "Fundamental Data Structures: Linked Lists"
+trees: "Fundamental Data Structures: Binary Trees"
+searching: "Searching Algorithms"
+sorting: "Sorting Algorithms"
+recursion: "All About Recursion, All About..."
