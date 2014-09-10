@@ -9,7 +9,7 @@
 # You don't need the .md suffix in the filename.
 
 
-bigo.md: "Big O Notation"
+bigo: "Big O Notation"
 turing: "The Turing Test"
 linked: "Fundamental Data Structures: Linked Lists"
 trees: "Fundamental Data Structures: Binary Trees"
