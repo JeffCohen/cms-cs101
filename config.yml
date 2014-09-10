@@ -1,6 +1,7 @@
 # Enable/Disable Built-In Features
 aha_board: true
 question_board: false
+show_weeks: false
 
 # Custom Sidebar Links to External Sites.
 # ----------------------------------------
