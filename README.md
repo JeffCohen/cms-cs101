@@ -2,8 +2,8 @@
 
 ## Fundamentals of Algorithm Design
 
+* Why do I sometimes read things about linked lists, binary trees, acyclic directed graphs, and other crazy data structures?
 * What is recursion, and how would I know when I have a problem that needs a recursive solution?
-* Why do I sometimes read things about binary trees, acyclic directed graphs, and other crazy data structures?
 * Level up your coding skills by learning how to write fundamental searching and sorting algorithms.
 * What is "big O" notation all about?
 
