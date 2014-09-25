@@ -8,7 +8,7 @@ show_weeks: false
 # Must be an array.  Start with a dash on its own line.
 # Then indent and provide label, url, and fa icon (optional)
 # The default icon is fa-cloud.
-#sidebar:
+sidebar:
 #  
 #  - 
 #    label: "Community"
