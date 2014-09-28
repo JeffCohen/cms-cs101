@@ -22,6 +22,7 @@ puts colors.to_s  # "red, orange, yellow, green, blue, indigo, violet"
 colors.delete("green")
 puts colors.size    # 6
 puts colors.to_s  # "red, orange, yellow, blue, indigo, violet"
+```
 
 ## Rules
 
