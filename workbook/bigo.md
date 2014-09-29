@@ -32,28 +32,33 @@ But the crazy thing is that the speed of any particular function might not be co
 
 So our question now becomes, which solution performs the best when faced with the *worst* case (which usually means, a very large input size)?
 
-The answer is sometimes counter-intuitive, so computer science also gives us a standard way to describe the performance of any function or algorithm.  And it turns out that most algorithm will fall into one of small handful of categories.
+The answer is sometimes counter-intuitive, so computer science gives us a standard way to describe the performance of any function or algorithm.  
 
 ## `O()` Notation
 
-In which we decipher the confusing O(n), O(log n), O(n2) notation....
 
-Also called computational complexity
+It turns out that most algorithm will fall into one of small handful of categories.  After decades of measuring the speeds of a large variety of algorithms, plotting a graph of the time it takes for an algorithm to run vs. input size almost always resulted in the shape of a well-known mathematical function.  Mathematically the shape was based on something called the "order" of the function, or "O" for short.
 
-Characterizes the worst-case performance of an algorithm with respect to input size
+Here are the most common ones you need to know.  I've put them in order from best-performing to worst-performing.
 
-Math shapes: cubic, quadratic, logarthimic, linear, flat
+### O(1)
+
+This is the best possible outcome.  It means that the function will perform its work in the same amount of time, *regardless of input size*.
+
+### O(log n)
+
+Sometimes called _logarthimic complexity_, this means that the time it takes to run is proportional to the logarithm (base 10) of the input size.  If a function takes 2 seconds to operate on 10 elements, it will take 4 seconds to operate on 1000 elements.
+
+### O(n)
+
+Sometimes called _linear complexity_, this means that the time it takes to run is directly and linearly related to the input size.  If a function takes 2 seconds to operate on 10 elements, it will take 200 seconds to operate on 1000 elements.
+
+### O(n log n)
+
+This is usually worse than linear complexity.  If a function takes 2 second to operate on 10 elements, it will take 1000 * 3/5 = 600 seconds to operate on 1000 elements.  
+
+### O(n^2)
+
+I think you can figure this one out.
 
 
-O(n)
-
-O(log n)
-
-O(n log n)
-
-O(n^2)
-
-
-How can we determine complexity of an algorithm we write?
-
-Watch out for nested loops
