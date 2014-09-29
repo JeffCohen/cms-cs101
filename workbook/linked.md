@@ -27,3 +27,4 @@ puts colors.to_s  # "red, orange, yellow, blue, indigo, violet"
 ## Rules
 
 1. Your LinkedList class may not use include Enumerable or any built-in Ruby class that implements Enumerable.
+2. Your LinkedList class must hold as little memory as possible (fewest number of data attributes, etc)
