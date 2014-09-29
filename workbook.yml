@@ -9,10 +9,10 @@
 # You don't need the .md suffix in the filename.
 
 
-bigo: "Big O Notation"
-turing: "The Turing Test"
 linked: "Fundamental Data Structures: Linked Lists"
-trees: "Fundamental Data Structures: Binary Trees"
 searching: "Searching Algorithms"
+trees: "Fundamental Data Structures: Binary Trees"
+complexity: "Complexity Notation"
 sorting: "Sorting Algorithms"
-recursion: "All About Recursion, All About..."
+recursion: "All About Recursion. All About Recursion.  All About..."
+turing: "The Turing Test"
