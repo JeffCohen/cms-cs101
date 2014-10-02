@@ -9,8 +9,9 @@ show_weeks: false
 # Then indent and provide label, url, and fa icon (optional)
 # The default icon is fa-cloud.
 sidebar:
-  - label: "Links"
-  - url: "http://learn.golearntocode.com/cs101/workbook/resources"
+  - 
+    label: "Links"
+    url: "http://learn.golearntocode.com/cs101/workbook/resources"
   
 #  
 #  - 
