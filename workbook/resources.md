@@ -1,5 +1,6 @@
 # Links and Resources
 
+* Lunch Menus: [Cross Rhodes](http://crossrhodes.biz/g/CRMenu-12_CARRYOUT.pdf) and [JimmyJohns](https://www.jimmyjohns.com/menu/#/)
 * [Google's Quantum Computer](http://www.technologyreview.com/news/530516/google-launches-effort-to-build-its-own-quantum-computer/)
 * [CS Topic Generator](https://www.cs.purdue.edu/homes/dec/essay.topic.generator.html)
 * [Wikipedia: Binary Search Algorithm](http://en.wikipedia.org/wiki/Binary_search_algorithm)
